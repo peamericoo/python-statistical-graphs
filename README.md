@@ -2,6 +2,14 @@
   <img src="assets/demo.gif" alt="python-statistical-graphs. O Streamlit abre na 8501 com o preço do iPhone 13 e do iPhone 17 Pro Max." width="820">
 </p>
 
+## A tela
+
+Dashboard aberto com `streamlit run app.py`, nos números que já vêm em `data_models.py`.
+
+<p align="center">
+  <img src="assets/tela.png" alt="Dashboard do preço de lançamento do iPhone, com esforço em salários e a comparação de 2021 com 2025." width="820">
+</p>
+
 Trabalho de probabilidade e estatística. Eu acompanhei o preço de lançamento do iPhone, do 13 ao 17, de 2021 a 2025, ao lado do salário mínimo. Tem a tela de apresentação e um editor para mexer nos números ao vivo.
 
 Os valores de partida estão em `data_models.py`: base, Pro e Pro Max. O gif mostra dois deles.
